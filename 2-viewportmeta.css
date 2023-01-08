@@ -1,0 +1,9 @@
+html{
+  font-size: 30px;
+}
+
+#div2{
+  width: 60%;
+  padding: 5px;
+  border: 1px solid black;
+}
