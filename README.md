@@ -7,4 +7,5 @@ Responsive web pages using HTML and CSS.
   4. 2-viewportmeta.css --> CSS file for 2-viewportmeta.html (linked to 2-viewportmeta.html).
   5. 3-mediaquery.html --> understanding media queries in CSS (linked to 3-mediaquery.css).
   6. 3-mediaquery.css --> CSS file for 3-mediaquery.html (linked to 3-mediaquery.html).
-  
+  7. 4-mobilefirst.html --> page to understand how mobile first websites work using media queries (linked to 4-mobilefirst.css).
+  8. 4-mobilefirst.css --> CSS file for 4-mobilefirst.html (linked to 4-mobilefirst.html). 
